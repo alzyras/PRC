@@ -43,7 +43,6 @@ layout = [  [sg.Text('Python Random Clicker '+version)],
             [sg.Text('Press HOME to start, END to end')],
             [sg.Text('Min wait time  '), sg.InputText(size=(10,5))],
             [sg.Text('Max wait time '), sg.InputText(size=(10,5))],
-            [sg.Text('Enter something on Row 2'), sg.InputText(size=(10,5))],
             [sg.Button('Ok'), sg.Button('Cancel')] ]
 
 # Create the Window

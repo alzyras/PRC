@@ -9,4 +9,4 @@ I spent almost an hour trying to find a nice freeware autoclicker with random in
 
 So I coded my own.
 
-![Image of PRC Alpha 10](https://i.imgur.com/dMSJS85.png)
+![Image of PRC Alpha 10](https://i.imgur.com/mGmIqC9.png)
